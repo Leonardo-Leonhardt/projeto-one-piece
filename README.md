@@ -2,6 +2,8 @@
 
 ola blz???
 oiiii
+cakffga
+
 
 ### Nesse projeto, eu vou te contar um pouco sobre cada um do bando do Chapéu de Palha.
 - *Monkey D. Luffy*
