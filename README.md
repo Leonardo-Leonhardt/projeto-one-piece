@@ -1,5 +1,6 @@
 # Projeto One Piece
 
+ola blz???
 ### Nesse projeto, eu vou te contar um pouco sobre cada um do bando do Chapéu de Palha.
 - *Monkey D. Luffy*
   ![Membro da tripulação Monkey D. Luffy](./src/imagens/personagem-monkey-d-luffy.png)
